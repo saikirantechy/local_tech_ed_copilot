@@ -41,7 +41,7 @@
 
 ## 📸 Screenshots / Demo
 
-_(Replace the placeholder below with an actual screenshot or GIF of your application)_
+*(Replace the placeholder below with an actual screenshot or GIF of your application)*
 
 <div align="center">
   <img src="https://via.placeholder.com/800x450/1A1A1A/FFFFFF/?text=Your+App+Screenshot+Here" alt="Screenshot" width="100%">
@@ -50,14 +50,12 @@ _(Replace the placeholder below with an actual screenshot or GIF of your applica
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
-
    ```bash
    git clone https://github.com/YOUR_USERNAME/local_tech_ed_copilot.git
    cd local_tech_ed_copilot
    ```
 
 2. **Set up a virtual environment (Recommended)**
-
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
@@ -103,30 +101,15 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👨‍💻 Author & Connect With Me
+## 👨‍💻 Author
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikirantechy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikirantechy)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saikirantechy)
+**[YOUR NAME / BRAND]**
 
----
-
-## 🚀 Community & Platforms
-
-[![WhatsApp Community](https://img.shields.io/badge/WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jxo5Ny382rmAT5DEkpmwYy)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaesC2lBadmViwYTnj2d)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saikirantechy)
-[![Arattai](https://img.shields.io/badge/Arattai-000000?style=for-the-badge&logo=chat&logoColor=white)](https://aratt.ai/@saikirantechy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 
 ---
-
-## 🎯 SKT Nexus
-
-[![SKT Nexus LinkedIn](https://img.shields.io/badge/SKT%20Nexus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/skt_nexus)
-[![Admin LinkedIn](https://img.shields.io/badge/Admin%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikirantech)
-
----
-
 <div align="center">
   <b>If you found this project helpful, please don't forget to Star ⭐ this repo!</b>
 </div>
